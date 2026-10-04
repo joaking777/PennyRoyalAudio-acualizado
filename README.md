@@ -1,2 +1,2 @@
 PennyRoyalAudio
-Página web oficial de PennyRoyal Studio.
+Página web oficial de PennyRoyal Audio.
